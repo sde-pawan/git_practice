@@ -1,2 +1,3 @@
- public interface UsersRepo {
+package repositories;
+public interface UsersRepo {
 }
